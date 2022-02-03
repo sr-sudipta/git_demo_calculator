@@ -11,5 +11,5 @@ public class AlgebricSum {
 		int result = num1 + num2;
 		System.out.println("Summation: "+result);
 	}
-
+//Will take input from user in future
 }
